@@ -1,4 +1,4 @@
 mibaltimore.me
-if (window.location.href==="mibaltimore.me") {
-    window.location.href = "https://mibaltimoremd.wixsite.com/mibaltimore"; 
+if (window.location.href==="https://mibaltimoremd.wixsite.com/mibaltimore") {
+    window.location.href = "mibaltimore.me"; 
 }
